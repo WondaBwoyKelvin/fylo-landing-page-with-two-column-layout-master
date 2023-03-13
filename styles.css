@@ -216,11 +216,11 @@ span p {
 .bttn {
     border: none;
     background-color: hsl(224, 93%, 58%);
-    padding: 13px 30px;
+    padding: 13px 143px;
     border-radius: 4px;
     color: white;
     text-align: center;
-    display:block;
+    display:inline-block;
 }
 
 .main-footer {
